@@ -31,7 +31,6 @@ body {background-color: #d3e3fd;
                 color: white;}}       
         }
 
- 
     .logo {height: 40px;}
 
     .queHacemos {margin-bottom: 20px;}
@@ -100,13 +99,13 @@ img.avatar {
     text-align: -webkit-center;
     text-align-last: center;}
     
-    .piedepagina {
+    footer{
         background-color: #92a4f0ff;
         height: 100px;
         
-        .piedepagina__disclaimer {color: blue;}
+      p {color: blue;}
        
         i {
-            padding: 28px;
-            
-        }}
+            padding: 28px;  
+        }
+      }
